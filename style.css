@@ -1,9 +1,7 @@
 body{
     text-align: center;
-    font-family:'Arial';
-    background:lightskyblue;
-    color:darkblue;
+    font-family: 'Serif';
+    background: darkred;
+    color:white;
 }
-img{
-    width:200px
-}
+
